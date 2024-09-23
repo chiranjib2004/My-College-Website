@@ -1,0 +1,215 @@
+#newsmarq{
+	display: flex;
+}
+#news{
+	font-family: calibri;
+	color: red;
+	font-size: 14px ;
+}
+#marq{
+	background-color: navy;
+	color: white;
+	font-family: calibri;
+	font-size: 12px ;
+	width: 100%;
+	margin-left: 10px;
+}
+#logo{
+	width: 150px;
+	height: 70px;
+	padding-right: 60px;
+}
+#logosection{
+	display: flex;
+}
+#menu{
+	font-family: calibri;
+	font-size: 18px;
+	padding-left: 30px;
+	padding-top: 10px;
+	color: red;
+}
+a{
+	text-decoration: none;
+	color: red;
+}
+a:hover{
+	cursor: pointer;
+	text-decoration: underline;
+	color: navy;
+	text-shadow:5px 5px 5px navy;
+}
+#mainpic{
+	width: 100%;
+}
+#colgnews{
+	display: flex;
+}
+#colgnews1{
+	width: 33%;
+	background-color: navy;
+	color: white;
+	text-align: center;
+	font-family: calibri;
+	font-size: 20px;
+	margin-left: 2px;
+}
+
+#eventmain{
+	width: 100%;
+	height:300px;
+	display: flex;
+}
+b{
+	color: red;
+	font-family: calibri;
+	font-size: 14px;
+}
+#p1{
+	font-family: calibri;
+	font-size: 12px;
+	text-align: justify;
+}
+#new{
+	width: 20px;
+	height: 20px;
+}
+#recentnews{
+	margin-top: 10px;
+	width: 33%;
+	height: 300px;
+	margin-left: 2px;
+}
+#campusnews{
+	width: 33%;
+	height: 300px;
+	margin-left: 4px;
+}
+#campusnewsrow{
+	display: flex;
+	margin-top: 10px;
+}
+#campusnewstxt{
+	font-family: calibri;
+	font-size: 12px;
+	text-align: justify;
+	margin-left: 4px;
+}
+
+#collegecalender{
+	width: 33%;
+	height: 300px;
+	margin-left: 4px;
+}
+#collegecalender1{
+	display: flex;
+	margin-top: 10px;
+}
+#sec1{
+	width: 10%;
+	height: 40px;
+	background-color: red;
+	color: white;
+	font-family: calibri;
+	font-size: 12px;
+	padding:2px;
+	padding-top: 10px;
+}
+#sec2{
+	font-family: calibri;
+	font-size: 12px;
+	padding:2px;
+	text-align: justify;
+}
+#abtcolg{
+	display: flex;
+	margin-top:40px;
+}
+h2,h3{
+	color: red;
+	font-family: calibri;
+	text-decoration:underline;
+}
+#abttxt{
+	font-family: calibri;
+	font-size: 14px;
+	text-align: justify;
+	padding-right: 5px;
+}
+#abtcolgpic{
+	margin-top: 80px;
+}
+#diginities{
+	display: flex;
+}
+#diginities1{
+	display: flex;
+	margin-top: 10px;
+}
+#owner{
+	width: 80px;
+	height: 60px;
+	padding-right: 5px;
+}
+#owninf{
+	font-family: calibri;
+	font-size: 14px;
+}
+#div1{
+	width: 33%;
+}
+#id1{
+	margin-top: 10px;
+	width: 240px;
+}
+#testimonial{
+	display: flex;
+}
+#testimonial1{
+	width: 33%;
+	border: 2px solid navy;
+	border-radius: 10px;
+	font-family: calibri;
+	font-size: 14px;
+	text-align: justify;
+	padding: 5px;
+	margin-right: 3px;
+}
+#quote{
+	text-align: center;
+}
+#testimonialpic{
+	display: flex;
+}
+#testimonialpic1{
+	width: 33%;
+	display: flex;
+}
+#testimonialpic1_2{
+	margin-top: 25px;
+}
+#gallery{
+	margin-top: 10px;
+	display: flex;
+	justify-content:space-evenly;
+}
+#gallery1{
+	width: 270px;
+	height: 140px;
+	border:2px solid navy;
+	border-radius: 15px;
+	margin-right: 5px;
+}
+#logo1{
+	width: 100px;
+	height: 40px;
+}
+#footer{
+	margin-top: 10px;
+	text-align: center;
+}
+#design{
+	color: navy;
+	font-family: calibri;
+	font-size: 20px;
+}

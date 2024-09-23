@@ -1,0 +1,196 @@
+*{
+	font-family:calibri;
+}
+b{
+	color:red;
+}
+#flex{
+	display:flex;
+}
+#marq{
+color:white;
+width:100%;
+margin-left:20px;
+background-color:navy;
+Margin-top:0;
+}
+#img{
+width:150;
+height:80;
+}
+#p{
+color:red;
+font-size:22px;
+margin-left:100;
+margin-top:20;
+}
+#p:hover{
+text-decoration:underline;
+text-shadow:5px 5px 5px navy;
+cursor:pointer;
+text-decoration:none;
+}
+#r{
+width:33%;
+background-color:navy;
+color:white;
+margin-left:2px;
+text-align:center;
+font-size:18px;
+margin-top:5px;
+}
+#eventmain{
+    width: 100%;
+    height: 300px;
+    display: flex;
+}
+
+b{
+    color: red;
+    font-size: 20px;
+}
+#p1{
+    text-align: justify;
+    font-size: 20px;
+}
+
+#new{
+    width: 30px;
+    height: 30px;
+}
+#recentnews{
+    margin-top: 10px;
+    width: 33%;
+    height: 300px;
+    margin-left: 3px;
+}
+#campusnews{
+    width: 33%;
+    margin-left: 3px;
+    height: 300px;
+
+}
+
+.campusnewsrow{
+    display: flex;
+    margin-top: 10px;
+    border:1px solid navy;
+    align-content:center;
+    background-color:lightblue;
+}
+.campusnewstxt{
+    text-align: justify;
+    margin-left: 4px;
+    font-size: 20px;
+}
+#collegecalender{
+    margin-left: 3px;
+    height: 300px;
+    width: 33%;   
+}
+
+#collegecalender1{
+    display: flex;
+    margin-top: 10px;
+    margin-bottom:20px;
+}
+
+#sec1{
+    width: 50px;
+    height: 10%;
+    background-color: red;
+    color: white;
+    padding: 2px;
+    font-size: 20px;
+    padding-top: 10px;
+}
+
+#sec2{
+    font-size: 20px;
+    text-align: justify; 
+}
+.campusnewspic{
+width:100;
+height:100;
+}
+#abtcolg{
+    display: flex;
+    margin-top:300px;
+}
+h2{
+    color: red;
+    text-decoration:underline;
+}
+
+#abttxt{
+    text-align: justify;
+    font-size: 20px;
+}
+
+#abtcolgpic{
+    margin-top:30px;
+    margin-left:20px;
+}
+#diginities{
+    display: flex;
+    margin-left:180;
+
+}
+#diginities1{
+    display: flex;
+    margin-top: 10px;
+
+}
+#diginities2{
+    width: 33%;
+}
+
+#owner{
+    width: 80px;
+    height: 60px;
+    padding-left: 3px;
+    padding-right: 5px;
+}
+
+#award{
+    width: 300px;
+    margin-top: 10px;
+}
+
+#div1{
+    width: 33%;
+
+}
+#id1{
+    margin-top:10px;
+    width:240px;
+}
+#testimonial{
+    display: flex;
+}
+#testimonial1{
+    width:33%;
+    border:2px solid navy;
+    border-radius:10px;
+    font-size:14;
+    text-align:justify;
+    padding:5;
+    margin-right:3px;
+    background-color:lightcyan;
+}
+#quote{
+text-align:center;
+}
+#testimonialpic1{
+    width:33%;
+    display: flex;
+}
+#testimonialpic1_2{
+    margin-top:25px;
+}
+#testimonialpic{
+  display: flex; 
+  margin-left:300px; 
+}
+
+
